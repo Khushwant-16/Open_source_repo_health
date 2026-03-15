@@ -49,7 +49,6 @@ The model revealed that while sheer push volume is critical, the structural heal
 
 ## 🕸️ Community Topologies: Healthy vs. Abandoned
 
-
 **Left:** A highly dense, resilient developer web (Low Bus Factor Risk).
 
 **Right:** A fragile, hub-and-spoke community overly reliant on a single maintainer (High Bus Factor Risk).
