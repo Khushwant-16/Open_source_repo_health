@@ -41,13 +41,15 @@ In predictive health systems, **False Negatives** (missing a dying, vulnerable p
 
 ## Feature Importance
 
-
+![Feature Importance](feature_importance.png)
 
 The model revealed that while sheer push volume is critical, the structural health of the network (**Network Density**) is a top-3 predictor of repository survival.
 
 ---
 
 ## 🕸️ Community Topologies: Healthy vs. Abandoned
+
+![Community Network Graphs](Network_graphs.png)
 
 **Left:** A highly dense, resilient developer web (Low Bus Factor Risk).
 
